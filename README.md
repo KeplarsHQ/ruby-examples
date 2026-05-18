@@ -29,6 +29,18 @@ Full Sinatra demo using the official Ruby SDK. Covers transactional emails, bulk
 
 [View SDK Example →](./sdk-example/)
 
+### API Example (`api-example/`)
+
+Minimal script sending a single email via raw HTTP using Ruby's standard `net/http` library — no SDK required.
+
+[View API Example →](./api-example/)
+
+### SMTP Example (`smtp-example/`)
+
+Minimal script sending a single email via SMTP using Ruby's standard `net/smtp` library — no SDK required.
+
+[View SMTP Example →](./smtp-example/)
+
 ## Quick Start
 
 ```bash
